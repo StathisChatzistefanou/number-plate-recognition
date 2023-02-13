@@ -1,2 +1,3 @@
 # vehicle-number-plate-recognition
-We can detect characters on vehicle number plate using matlab
+Τhe program is able to recognize the frame of the liscence plate and then display the letters and numbers contained in it.
+Matlab language was used for the implementation of the project.
